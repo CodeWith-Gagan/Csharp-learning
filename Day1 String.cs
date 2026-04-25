@@ -66,3 +66,5 @@ int age =25;
 Console.WriteLine("I am " +  age + " years old.");
 Console.WriteLine($"I am {age} years old.");
 Console.WriteLine(age);
+
+//Day 1 comopleted. We have learned about strings, string concatenation, string interpolation, string properties and methods, and how to manipulate strings using various methods. We also learned about the Console class and how to use it for input and output operations.
