@@ -1,0 +1,10 @@
+Console.WriteLine("Simple Calculator");
+Console.Write("Enter First Number ");
+int num1 = int.Parse(Console.ReadLine());
+Console.Write("Enter Second Nuumber ");
+int num2 = int.Parse(Console.ReadLine());
+Console.WriteLine($"\naddition: {num1} + {num2} = {num1 + num2}");
+Console.WriteLine($"subtraction: {num1} - {num2} = {num1 - num2}");
+Console.WriteLine($"multiplication: {num1} * {num2} = {num1 * num2}");
+Console.WriteLine($"quotient: {num1} / {num2} = {num1 / num2}");
+Console.WriteLine($"remainder: {num1} % {num2} = {num1 % num2}");
